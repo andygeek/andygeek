@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**andygeek/andygeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://imgur.com/cGI5nlJ.png)
 
-Here are some ideas to get you started:
+<a href="https://github.com/andygeek"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andygeek&layout=compact"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about programming and technology and I love creating community about technology. Actually I'm learning various technologies like android, javascript, vuejs and flutter. If you like programming as much as I do, follow me on my social networks and blog where I publish technical programming things.
+
+## Find me 🌎: 
+
+
+- My blog [www.andygeek.com/](https://andygeek.com/)
+- My twitter 🐦 [_AndyGeek](https://twitter.com/_AndyGeek)
