@@ -10,4 +10,4 @@ I am passionate about programming and technology and I love creating community a
 
 
 - My blog [www.andygeek.com](https://andygeek.com/)
-- My twitter 🐦 [_AndyGeek](https://twitter.com/_AndyGeek)
+- My twitter 🐦 [@_AndyGeek](https://twitter.com/_AndyGeek)
